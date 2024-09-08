@@ -1,0 +1,13 @@
+{
+    "New Changelog Entry": {
+        "scope": "markdown",
+        "prefix": "## v",
+        "body": [
+            "## v-.- (2022.--.--)", "",
+            "### Fix", "", "- ", "",
+            "### Feature", "", "- ", "",
+            "### Documentation", "", "- ", ""
+        ],
+        "description": "Log output to console"
+    }
+}
